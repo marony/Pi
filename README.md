@@ -17,12 +17,12 @@
     count = 1000000000, p = 785382604, r = 15.702741047756597, pi = 3.141530416
 
 ## 作業メモ
-$ activator new Pi
-4) minimal-scala
-
-$ cd Pi
-$ sbt run
-
-$ mv src/main/scala/com/example src/main/scala/com/binbo-kodakusan
-$ mv src/main/scala/com/binbo-kodakusan/Hello.scala src/main/scala/com/binbo-kodakusan/Main.scala
+    $ activator new Pi
+    4) minimal-scala
+    
+    $ cd Pi
+    $ sbt run
+    
+    $ mv src/main/scala/com/example src/main/scala/com/binbo-kodakusan
+    $ mv src/main/scala/com/binbo-kodakusan/Hello.scala src/main/scala/com/binbo-kodakusan/Main.scala
 
